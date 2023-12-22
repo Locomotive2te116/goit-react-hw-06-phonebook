@@ -1,5 +1,4 @@
 import { useDispatch, useSelector } from 'react-redux';
-import { nanoid } from 'nanoid';
 import s from './Input.module.css';
 import { addContact } from 'store/phonebookSlice';
 
